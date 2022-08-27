@@ -1,6 +1,18 @@
 body{
     background-color: #FDEEDC;
 }
+
+h1, h3{
+
+    color: #66bfbf;
+}
+
+a{
+    text-decoration: none;
+    color: #66bfbf;
+    
+}
+
 hr{
     border-color: grey;
     border-style: dotted none none;
